@@ -15,4 +15,4 @@ public class main : MonoBehaviour
     {
         this.transform.position += new Vector3(0.01f, 0, 0);
     }
-}
+} 
