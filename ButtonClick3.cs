@@ -8,7 +8,7 @@ public class ButtonClick3 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+    
     }
 
     // Update is called once per frame
@@ -19,6 +19,5 @@ public class ButtonClick3 : MonoBehaviour
             Debug.Log("‰Ÿ‚³‚ê‚½!");  // ƒƒO‚ğo—Í
             SceneManager.LoadScene("FinishScenes");
         }
-
     }
 }
